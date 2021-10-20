@@ -1,0 +1,8 @@
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\Business2\bin\Debug\netcoreapp3.1\Atlantico.Business.deps.json
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\Business2\bin\Debug\netcoreapp3.1\Atlantico.Business.dll
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\Business2\bin\Debug\netcoreapp3.1\Atlantico.Business.pdb
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\Business2\obj\Debug\netcoreapp3.1\Atlantico.Business.AssemblyInfoInputs.cache
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\Business2\obj\Debug\netcoreapp3.1\Atlantico.Business.AssemblyInfo.cs
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\Business2\obj\Debug\netcoreapp3.1\Atlantico.Business.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\Business2\obj\Debug\netcoreapp3.1\Atlantico.Business.dll
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\Business2\obj\Debug\netcoreapp3.1\Atlantico.Business.pdb

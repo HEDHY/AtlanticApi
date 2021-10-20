@@ -1,0 +1,8 @@
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\AtlanticoAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\AtlanticoAPI.Infrastructure.Data.deps.json
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\AtlanticoAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\AtlanticoAPI.Infrastructure.Data.dll
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\AtlanticoAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\AtlanticoAPI.Infrastructure.Data.pdb
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\AtlanticoAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\AtlanticoAPI.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\AtlanticoAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\AtlanticoAPI.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\AtlanticoAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\AtlanticoAPI.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\AtlanticoAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\AtlanticoAPI.Infrastructure.Data.dll
+C:\Users\diana\OneDrive\Ambiente de Trabalho\OneDrive_1_20-10-2021\AtlanticoAPI\AtlanticoAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\AtlanticoAPI.Infrastructure.Data.pdb
